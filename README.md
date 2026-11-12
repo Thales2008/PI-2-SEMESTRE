@@ -24,15 +24,15 @@ Entre os principais desafios identificados estão:
 
 ## Solução proposta
 
-Desenvolver uma plataforma digital própria para a Savi Mare Sociale, com o objetivo de centralizar a apresentação da marca, organizar seu catálogo de produtos e facilitar o acesso dos consumidores aos canais de compra.
+Desenvolver um site próprio para a Savi Mare Sociale, com o objetivo de centralizar a apresentação da marca, organizar seu catálogo de produtos e facilitar a consulta dos consumidores às informações de cada item.
 
-A solução proposta contempla:
+A solução contempla:
 
-- **Apresentação institucional:** informações sobre a marca e seu segmento de atuação;
-- **Catálogo de produtos:** organização visual dos produtos, modelos, cores e opções disponíveis;
+- **Apresentação institucional:** página inicial e página Sobre, com informações sobre a marca e seu segmento de atuação;
+- **Catálogo de produtos:** organização visual dos produtos por categorias, com modelos, cores e opções disponíveis;
 - **Detalhes dos produtos:** informações e imagens para auxiliar na escolha dos consumidores;
-- **Integração com marketplaces:** direcionamento para os anúncios disponíveis na Shopee e em outras plataformas de venda;
-- **Acesso aos canais de contato:** integração com as redes sociais e demais canais de atendimento;
+- **Canais oficiais:** apresentação do Instagram, da Shopee e do Mercado Livre da marca;
+- **Área administrativa:** acesso restrito para cadastrar, editar e excluir produtos e categorias;
 - **Design responsivo:** interface adaptada para computadores, tablets e dispositivos móveis.
 
 ## Produtos
@@ -51,7 +51,7 @@ A Savi Mare Sociale utiliza plataformas de comércio eletrônico para divulgar s
 
 - **Shopee:** [Savi Mare Sociale](https://shopee.com.br/savimaresociale)
 - **Instagram:** [@savi.maresociale](https://www.instagram.com/savi.maresociale/)
-- **Mercado Livre:** [Acessar loja](https://www.mercadolivre.com.br/pagina/bhcdbfeag1664)
+- **Mercado Livre:** [Savi Mare Sociale](https://www.mercadolivre.com.br/pagina/bhcdbfeag1664)
 
 ## Segmento de atuação
 
@@ -65,3 +65,15 @@ A Savi Mare Sociale utiliza plataformas de comércio eletrônico para divulgar s
 A Savi Mare Sociale busca atender consumidores que procuram acessórios masculinos para ocasiões especiais, oferecendo variedade de modelos, cores e opções de compra.
 
 Seu catálogo atende especialmente pessoas que desejam coordenar a aparência dos padrinhos de casamento e complementar o vestuário social.
+
+## Tecnologias
+
+HTML, CSS, JavaScript, PHP e SQL.
+
+## Equipe
+
+Projeto da disciplina de Desenvolvimento Web (ADS) da Fatec Americana.
+
+- Eduardo da Silva Stoco
+- Gabriel Munhoz Peterlini
+- Thales de Souza Pereira
