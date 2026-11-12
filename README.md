@@ -72,7 +72,7 @@ HTML, CSS, JavaScript, PHP e SQL.
 
 ## Equipe
 
-Projeto da disciplina de Desenvolvimento Web (ADS) da Fatec Americana.
+Projeto Integrador (ADS) Fatec Americana.
 
 - Eduardo da Silva Stoco
 - Gabriel Munhoz Peterlini
