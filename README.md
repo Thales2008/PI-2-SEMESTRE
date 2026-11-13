@@ -1,6 +1,7 @@
 # PI-2-SEMESTRE
 
 # Savi Mare Sociale
+**Figma:** https://www.figma.com/design/SqBZtfGsp3yoNSbiq9rJ7g/Savi-mari?node-id=0-1&t=bobo62MWWcvFm3ni-1
 
 ## Apresentação
 
